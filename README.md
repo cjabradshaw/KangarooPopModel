@@ -1,5 +1,6 @@
 # Red kangaroo population projection model
 <img align="right" src="roo.png" alt="red kangaroo" width="300" style="margin-top: 20px">
+<a href="https://zenodo.org/badge/latestdoi/414049333"><img src="https://zenodo.org/badge/414049333.svg" alt="DOI"></a>
 
 Stochastic Leslie matrix population model for the red kangaroo (<a href="https://australian.museum/learn/animals/mammals/red-kangaroo/"><em>Osphranter rufus</em></a>)
 
